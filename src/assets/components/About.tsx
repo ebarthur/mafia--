@@ -35,7 +35,7 @@ const About = () => {
             alt="Lore Section Two"
             className="w-full h-[75vh] xs:h-[612px] md:h-[60vh] lg:h-[70vh] object-cover"
           />
-          <div className="absolute top-0 left-0 right-0 bottom-0 flex flex-col justify-center items-center ml-5 md:ml-10 md:items-start md:mb-40 text-white">
+          <div className="absolute top-0 left-0 right-0 bottom-0 flex flex-col justify-center items-center md:ml-10 md:items-start md:mb-40 text-white">
             <span className=" text-lg mt-72 tracking-wide uppercase font-bold text-[#920a0a] md:tracking-tighter">
               Starring
             </span>
@@ -47,7 +47,7 @@ const About = () => {
               className="bg-[#920a0a] w-32 my-4"
             />
 
-            <p className="lg:w-40  text-sm mb-4 xs:-mb-10 lg:mb-40 md:text-base md:w-[30%] w-[90%]">
+            <p className="lg:w-40 text-left text-sm mb-4 xs:-mb-10 lg:mb-40 md:text-base md:w-[30%] w-[90%]">
               Vito&apos;s Sicilian family moved to America in search of a better
               life when he was seven years old. His late father couldn&apos;t
               save the family from a life of poverty no matter how hard he
