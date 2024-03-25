@@ -56,16 +56,26 @@ const Footer = () => {
                 />
               </div>
               <div className="text-white/60 text-[0.8rem] tracking-wide gap-4 uppercase  break-inside-avoid-column columns-3 qq:w-[50rem] md:columns-4 space-y-2">
-                <p className="hover:text-white">2K.com</p>
-                <p className="hover:text-white">Support</p>
-                <p className="hover:text-white">Privacy policy</p>
-                <p className="hover:text-white">Terms of service</p>
-                <p className="hover:text-white">Cookie Policy</p>
-                <p className="hover:text-white">
+                <p className="hover:text-white/90 hover:underline">2K.com</p>
+                <p className="hover:text-white/90 hover:underline">Support</p>
+                <p className="hover:text-white/90 hover:underline">
+                  Privacy policy
+                </p>
+                <p className="hover:text-white/90 hover:underline">
+                  Terms of service
+                </p>
+                <p className="hover:text-white/90 hover:underline">
+                  Cookie Policy
+                </p>
+                <p className="hover:text-white/90 hover:underline">
                   Do not sell my personal information
                 </p>
-                <p className="hover:text-white">2k ad partners</p>
-                <p className="hover:text-white">Cookie Settings</p>
+                <p className="hover:text-white/90 hover:underline">
+                  2k ad partners
+                </p>
+                <p className="hover:text-white/90 hover:underline">
+                  Cookie Settings
+                </p>
               </div>
             </div>
           </div>
