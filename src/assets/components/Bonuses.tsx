@@ -2,7 +2,7 @@ import { Separator } from '@/components/ui/separator';
 
 const Bonuses = () => {
   return (
-    <main className="w-full h-auto features px-5 py-20">
+    <main className="w-full h-auto features px-5 py-20" id="bonuses">
       {/* 1 */}
       <section>
         <div className="flex justify-center items-center flex-col w-full">
