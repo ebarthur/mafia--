@@ -12,7 +12,7 @@ const Features = () => {
 
       <section className=" gap-y-4 md:gap-y-6 grid lg:mx-40 lg:grid-cols-3 lg:gap-x-6 md:place-content-center ">
         {/* 1 */}
-        <div className="w-full p-5 flex md:rounded-md lg:rounded-none justify-start md:justify-center items-center flex-col features_background-1 h-[30vh]">
+        <div className="w-full p-5 flex md:rounded-md lg:rounded-none justify-start md:justify-center items-center flex-col features_background-1 h-auto md:h-[30vh]">
           <div className="text-[#fff]  text-center mt-8 uppercase text-xl md:text-2xl font-semibold mb-2 tracking-wide lg:tracking-normal">
             Experience a classic remastered
           </div>
@@ -23,7 +23,7 @@ const Features = () => {
           </h1>
         </div>
         {/* 2 */}
-        <div className="w-full  p-5 flex md:rounded-md lg:rounded-none justify-start md:justify-center items-center flex-col features_background-2 h-[30vh]">
+        <div className="w-full  p-5 flex md:rounded-md lg:rounded-none justify-start md:justify-center items-center flex-col features_background-2 h-auto md:h-[30vh]">
           <div className=" text-[#fff] text-center mt-8 uppercase text-xl md:text-2xl font-semibold mb-2 tracking-wide  lg:tracking-normal">
             Make the family proud
           </div>
@@ -34,7 +34,7 @@ const Features = () => {
           </h1>
         </div>
         {/* 3 */}
-        <div className="w-full  p-5 flex md:rounded-md lg:rounded-none justify-start md:justify-center items-center flex-col features_background-3 h-[30vh]">
+        <div className="w-full  p-5 flex md:rounded-md lg:rounded-none justify-start md:justify-center items-center flex-col features_background-3 h-auto md:h-[30vh]">
           <div className=" text-[#fff] text-center mt-8 uppercase text-xl md:text-2xl font-semibold mb-2 tracking-wide  lg:tracking-normal">
             Explore empire bay
           </div>
