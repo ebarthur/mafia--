@@ -28,7 +28,7 @@ const navLinks: INavLink[] = [
 
 const Navbar = () => {
   return (
-    <nav className="w-full h-16 md:h-14 fixed z-10 p-5 bg-[#141414]/40 md:bg-[#141414]/95">
+    <nav className="w-full h-14 fixed z-10 p-5 bg-[#141414]/40 md:bg-[#141414]/95">
       <main className="flex  justify-between ">
         <div className="flex gap-5">
           <img
