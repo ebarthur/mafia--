@@ -17,50 +17,34 @@ const Footer = () => {
                 />
               </div>
               <div className="flex gap-x-6">
-                <div
-                  onClick={() =>
-                    window.open('https://github.com/ebarthur/mafia--')
-                  }
-                >
+                <a href="https://github.com/ebarthur/mafia--" target="_blank">
                   <img
                     src="https://cdn.2kgames.com/2020/03/30/5e827f1d40aabfooter-fb.png"
-                    alt=" Facebook Logo"
+                    alt="Facebook Logo"
                     className="h-8"
                   />
-                </div>
-                <div
-                  onClick={() =>
-                    window.open('https://twitter.com/StatmanAartt')
-                  }
-                >
+                </a>
+                <a href="https://twitter.com/StatmanAartt" target="_blank">
                   <img
                     src="https://cdn.2kgames.com/2020/03/30/5e827f2d1911bfooter-twitter.png"
                     alt="Twitter Logo"
                     className="h-8"
                   />
-                </div>
-                <div
-                  onClick={() =>
-                    window.open('https://github.com/ebarthur/mafia--')
-                  }
-                >
+                </a>
+                <a href="https://github.com/ebarthur/mafia--" target="_blank">
                   <img
                     src="https://cdn.2kgames.com/2020/03/30/5e827f4234525footer-yt.png"
                     alt="Youtube Logo"
                     className="h-8"
                   />
-                </div>
-                <div
-                  onClick={() =>
-                    window.open('https://github.com/ebarthur/mafia--')
-                  }
-                >
+                </a>
+                <a href="https://github.com/ebarthur/mafia--" target="_blank">
                   <img
                     src="https://cdn.2kgames.com/2020/05/15/5ebf1c4bc76cdfooter-instagram.png"
                     alt="Instagram Logo"
                     className="h-8"
                   />
-                </div>
+                </a>
               </div>
             </div>
             <div className="flex items-center qq:items-start justify-center mx-auto flex-col qq:flex-row qq:gap-20">
