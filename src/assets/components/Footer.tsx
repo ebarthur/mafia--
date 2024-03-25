@@ -17,7 +17,11 @@ const Footer = () => {
                 />
               </div>
               <div className="flex gap-x-6">
-                <div onClick={() => window.open('https://github.com/ebarthur')}>
+                <div
+                  onClick={() =>
+                    window.open('https://github.com/ebarthur/mafia--')
+                  }
+                >
                   <img
                     src="https://cdn.2kgames.com/2020/03/30/5e827f1d40aabfooter-fb.png"
                     alt=" Facebook Logo"
@@ -46,7 +50,11 @@ const Footer = () => {
                     className="h-8"
                   />
                 </div>
-                <div onClick={() => window.open('https://github.com/ebarthur')}>
+                <div
+                  onClick={() =>
+                    window.open('https://github.com/ebarthur/mafia--')
+                  }
+                >
                   <img
                     src="https://cdn.2kgames.com/2020/05/15/5ebf1c4bc76cdfooter-instagram.png"
                     alt="Instagram Logo"
